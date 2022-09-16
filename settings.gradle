@@ -1,0 +1,2 @@
+rootProject.name = "PML1_RecycleView"
+include ':app'
